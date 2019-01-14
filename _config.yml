@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "human friendly embedded blog"
+title                    : "Low Level Computing Blog"
 title_separator          : "-"
 name                     : "Parth Parikh"
-description              : "complex things in simple language"
+description              : "Let's talk about computers!!"
 url                      : "https://parthpower.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "parthpower/parthpower.github.io"
