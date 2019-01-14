@@ -25,7 +25,7 @@ You would have wondered if i's possible to reconfigure the PL part without any i
 ```shell
 echo '0' > /sys/devices/soc0/amba/f8007000.devcfg/is_partial_bitstream
 #echo '1' for partial bitstreams
-cat whatever_the_bit_file_name_is.bit &gt; /dev/xdevcfg
+cat whatever_the_bit_file_name_is.bit > /dev/xdevcfg
 ```
 
 Yeah, tha's it! Make sure you're running it as root.
