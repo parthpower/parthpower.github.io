@@ -17,6 +17,7 @@ tags:
   - FPGA
   - linux
   - Zynq
+comments: true
 ---
 Hi There!
 
