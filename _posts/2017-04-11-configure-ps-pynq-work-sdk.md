@@ -18,6 +18,7 @@ tags:
   - Vivado
   - Xilinx
   - Zynq
+comments: true
 ---
 Hi,
 
