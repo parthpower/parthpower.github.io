@@ -6,12 +6,8 @@ author_profile: true
 layout: single
 ---
 
-You already know my name from the url. Just to clerify (for legal reasons lol) it's Parth Parikh. 
+I'm an R&D embedded software engineer at [Keysight](https://keysight.com), an amazing place to work. To clarify, these blog reflects my personal opinions only.
 
-This blog is about System Programming + FPGA + ASIC + (prototype) webapp
+This blog is about my journey through engineering, some software, some FPGA , some ASIC , and a tiny bit of webapps, too.
 
-That's it! Keeping It Simple and Silly.
-
-Other blogs at [https://tiptogeek.com](https://tiptogeek.com) and [https://superuser.blog](https://superuser.blog)
-
-Hope you enjoy reading this blog.
+Used to write at [https://tiptogeek.com](https://tiptogeek.com) which is now out of service, and [https://superuser.blog](https://superuser.blog) which is still in service (maybe?).
