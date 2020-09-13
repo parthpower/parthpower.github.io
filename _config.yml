@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Low Level Computing Blog"
+title                    : "Blog"
 title_separator          : "-"
 name                     : "Parth Parikh"
-description              : "Let's talk about computers!!"
-url                      : "https://parthpower.me"
+description              : "Let's talk about computers."
+url                      : "https://parthpower.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "parthpower/parthpower.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
