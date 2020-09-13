@@ -1,1 +1,3 @@
-# A blank README! Details at https://parthpower.me
+# A blank README! 
+
+Blog posted at https://parthpower.github.io
