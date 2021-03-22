@@ -1,3 +1,16 @@
+---
+id: 210322
+title: "cracking MS Office Password"
+author: parth
+layout: single
+permalink: /cracking-ms-office-password
+header:
+  overlay_color: "#333"
+  show_overlay_excerpt: false
+categories:
+  - crack
+---
+
 # `cracking` MS Office Password
 
 For real? yes.
